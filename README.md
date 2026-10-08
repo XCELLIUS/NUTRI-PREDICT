@@ -2,6 +2,8 @@
 
 AI-assisted nutrition recommendation and meal-planning system built using Python, Scikit-learn, Pandas, and Streamlit.
 
+WEBSITE:- https://nutri-predict-main.vercel.app/
+
 ## Features
 
 - Patient profile input
